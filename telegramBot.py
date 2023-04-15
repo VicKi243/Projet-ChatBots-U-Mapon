@@ -6,7 +6,7 @@ from reflections import my_reflections
 from pairs import my_pairs, unknown
 from no_accent import remove_accents
 
-TOKEN = "5626722613:AAECTMRZo-V3K0EZ7LXchYag5-eolhgx1qc"
+TOKEN = "Entrez votre TOKEN Telegram bot"
 bot = telebot.TeleBot(TOKEN)
 umaponBot = Chat(pairs=my_pairs, reflections=my_reflections)
 
